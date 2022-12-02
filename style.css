@@ -1,5 +1,5 @@
 * {
-  font-family: "helvetica Neue" !important;
+  font-family: "helvetica Neue";
 }
 .title-font {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -32,4 +32,9 @@ body {
 
 .nav {
   display: flex;
+}
+
+.header {
+  text-align: center;
+  font-family: "herculanum";
 }
