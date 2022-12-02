@@ -38,3 +38,10 @@ body {
   text-align: center;
   font-family: "herculanum";
 }
+.box {
+  width: 100vw;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  $blue: hsl(229, 53%, 53%);
+}
