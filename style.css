@@ -35,13 +35,14 @@ body {
 }
 
 .header {
-  text-align: center;
+  text-align: center !important;
   font-family: "herculanum";
+  color: white;
 }
 .box {
   width: 100vw;
   height: 25vh;
   display: flex;
   align-items: center;
-  $blue: hsl(229, 53%, 53%);
+  background-color: black;
 }
