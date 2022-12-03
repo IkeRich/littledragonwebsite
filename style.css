@@ -49,6 +49,7 @@ body {
 .text {
   font-family: "Helvetica Neue";
   color: black;
+  text-align: center;
 }
 .footer {
   font-family: "herculanum";
