@@ -56,3 +56,6 @@ body {
   text-align: center;
   font-size: 150%;
 }
+.container {
+  background-color: white;
+}
