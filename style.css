@@ -57,3 +57,11 @@ body {
 .container {
   background-color: white;
 }
+.ml-4 {
+  font-family: "Canela";
+  color: black;
+}
+.column {
+  font-family: "Herculanum";
+  color: black;
+}
