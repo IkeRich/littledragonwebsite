@@ -7,6 +7,7 @@
   aspect-ratio: 16/9;
 }
 body {
+  background-image: url("./pics/swiggles.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -32,22 +33,17 @@ body {
   display: flex;
 }
 
-.header {
-  text-align: center !important;
-  font-family: "herculanum";
-  color: white !important;
-}
-
 .box {
   width: 100vw;
   height: 25vh;
-  display: flex;
   align-items: center;
   background-color: black;
+  background-image: url("./pics/invertswiggles.png");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
 }
-*is-pulled-left {
-  align-self: left !important;
-}
+
 .text {
   font-family: "Helvetica Neue";
   color: black;
