@@ -63,5 +63,7 @@ body {
 }
 .column {
   font-family: "Herculanum";
-  color: black;
+}
+.about-image {
+  width: 100%;
 }
